@@ -14,7 +14,7 @@ def read():
 
 
 def plot():
-    trainset, testset = read_data()
+    trainset, testset = read()
 
     # Data manipulation
     for data in trainset:

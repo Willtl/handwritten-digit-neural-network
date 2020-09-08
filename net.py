@@ -33,5 +33,6 @@ class Net(nn.Module):
         print(x)
         outputs = self.foward(x)
         print(outputs)
+
     def print(self):
         print(self)
