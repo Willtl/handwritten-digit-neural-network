@@ -1,2 +1,2 @@
-# feedforward-neural-network
-Feed-forward neural network using Pytorch
+# Feed-forward neural network using Pytorch
+
