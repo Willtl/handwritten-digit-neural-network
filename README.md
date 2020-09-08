@@ -1,2 +1,2 @@
-# Feed-forward neural network using Pytorch
+Simplef feedforward neural network using Pytorch
 
